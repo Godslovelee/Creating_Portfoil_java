@@ -1,5 +1,5 @@
 # Creating_Portfoil_java
-
+..java
 how to use the recycler view in the main activity
 RecyclerView menuRv;
     List<MenuItem> menuItems;
